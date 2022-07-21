@@ -1,0 +1,72 @@
+
+
+.container-ejercicio1  {
+  border: 1px solid black;
+}
+
+.container-ejercicio1 h1:hover {
+  background-color: red;
+}
+
+.container-ejercicio1 p:hover {
+  background-color: red;
+}
+
+.container-ejercicio1 a:hover {
+  background-color: red;
+}
+
+.container-ejercicio2  {
+  border: 1px solid black;
+}
+
+.container-ejercicio2 .master:hover {
+  background-color: red;
+}
+
+.container-ejercicio3  {
+  border: 1px solid black;
+}
+
+.container-ejercicio3 p:first-child {
+  background-color: red;
+}
+
+.container-ejercicio4  {
+  border: 1px solid black;
+}
+
+.container-ejercicio4 input:focus {
+  background-color: red;
+}
+
+.container-ejercicio5  {
+  border: 1px solid black;
+}
+
+.container-ejercicio5 ::first-line {
+  background-color: red;
+}
+
+.container-ejercicio6  {
+  border: 1px solid black;
+}
+
+.container-ejercicio6 ::first-letter {
+  background-color: red;
+}
+
+.container-ejercicio7  {
+  border: 1px solid black;
+}
+
+.container-ejercicio7 p:before  {
+  content:url(smile.png);
+}
+
+.container-ejercicio7 p:after  {
+  content:url(smile.png);
+  width: 20px;
+}
+
+
